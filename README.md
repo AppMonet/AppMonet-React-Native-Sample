@@ -1,13 +1,11 @@
 # react-native-app-monet-library
 
 ## Getting started
-1. Look up for `<API_KEY>` and replace it with your api key.
-
-2. `$ npm install react-native-app-monet-library --save`
-
+Look up for `<API_KEY>` and replace it with your api key.
 ### Mostly automatic installation
 
-`$ react-native link react-native-app-monet-library`
+`$ yarn install `
+`$ cd example && yarn install`
 
 #### IOS
 `$ cd react-native-app-monet-library/example/ios && pod init`
