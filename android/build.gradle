@@ -76,7 +76,7 @@ repositories {
 dependencies {
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'  // From node_modules
-    implementation 'com.monet:appmonet-mopub:3.6.4@aar'
+    implementation 'com.monet:appmonet-mopub:+@aar'
 }
 
 def configureReactNativePom(def pom) {
