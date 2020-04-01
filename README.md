@@ -4,7 +4,8 @@
 Look up for `<API_KEY>` and replace it with your api key.
 ### Mostly automatic installation
 
-`$ yarn install `
+`$ yarn install`
+
 `$ cd example && yarn install`
 
 #### IOS
