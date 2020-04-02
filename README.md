@@ -1,4 +1,4 @@
-# react-native-app-monet-library
+# react-native-appmonet-library
 
 ## Getting started
 Clone this repo and look up for `<API_KEY>` and replace it with your api key:
